@@ -1,0 +1,23 @@
+header{
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    margin: 50px;
+}
+ul{
+    list-style: none;
+    display: table;
+}
+  
+li {
+    display: table-row;
+}
+ table, th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+}
